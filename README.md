@@ -11,4 +11,7 @@ because it makes building modern rich complex user interfaces easier
 
 
 ## What should we do in this session
-Building Single page applications (SPAs)aha
+Building Single page applications (SPAs)
+
+# What React can do
+React can control part of ui or all of ui
